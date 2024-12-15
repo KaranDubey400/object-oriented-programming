@@ -8,7 +8,7 @@ struct pop{
     int n;
     struct pop *next;
 };
-
+//
 int z;
 int *e=&z;
 
